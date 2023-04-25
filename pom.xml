@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.208.170.219:8081/repository/g26-release/</url>
+	      <url>http://44.211.66.137:8081/repository/paypal-fin-payment-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.208.170.219:8081/repository/g26-snapshot/</url>
+	      <url>http://44.211.66.137:8081/repository/paypal-fin-payment-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>Paypal Financial</finalName>
 		
 		<plugins>
 			<plugin>
