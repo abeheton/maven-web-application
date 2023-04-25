@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.211.66.137:8081/repository/paypal-fin-payment-release/</url>
+	      <url>http://44.211.66.137:8081/repository/paypal-fin-pay-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.211.66.137:8081/repository/paypal-fin-payment-snapshot/</url>
+	      <url>http://44.211.66.137:8081/repository/paypal-fin-pay-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Paypal Financial</finalName>
+		<finalName>Paypal</finalName>
 		
 		<plugins>
 			<plugin>
