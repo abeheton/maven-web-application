@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.172.201.230:8081/repository/paypal-fin-pay-release/</url>
+	      <url>http://34.239.119.26:8081/repository/paypal-pilot-project-Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.172.201.230:8081/repository/paypal-fin-pay-snapshot/</url>
+	      <url>http://34.239.119.26:8081/repository/paypal-pilot-project-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Paypal</finalName>
+		<finalName>ALBARACK</finalName>
 		
 		<plugins>
 			<plugin>
