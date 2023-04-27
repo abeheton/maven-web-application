@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application G26 Project. This is where all the work is done. KEEP IT UP ALBARACK</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation. Alban Beheton shall be one of them!!!!!!!!!!!!!
+<h1 align="center">Welcome to PayPal Pilot Project Web application authored by Alban Amoussou Beheton. This is where all the work is done. KEEP IT REAL ALBARACK TODJI NONDJI!!!!!</h1>
+<h1 align="center">We are developing and supporting quality Software Solutions to African clients, Especially Benineses!!!!! .
+	           We are raising millionaires DevOps Engineers. Alban Beheton shall be one of them!!!!!!!!!!!!!
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
 	Class32 will start on April 15, 2023. </h1>
 <hr>
