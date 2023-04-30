@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ALBARACK</finalName>
+		<finalName>RIVIAN</finalName>
 		
 		<plugins>
 			<plugin>
